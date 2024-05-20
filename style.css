@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.intro{
+    align-items: center;
+    text-align: center;
+}
+
+.titulo{
+    width: 30rem;
+}
+.titulo2, .subtitulo{
+    text-align: center;
+    color: #fde910;
+    font-size: 2rem;
+    font-weight: bolder;
+    margin-top: -5rem;
+}
+.subtitulo{
+    padding: 5rem 0rem;
+}
+.navbar{
+    box-shadow: 0.5rem 1rem 1rem rgb(224, 224, 224);
+}
+.navbar-brand{
+    font-size: 1.5rem;
+    color: white;
+    font-family: 'Shrikhand';
+}
+
+.nav-link{
+    color: white;
+    font-size: 1.3rem;
+}
+.sorvete{
+    width: 30rem;
+    padding: 1rem 0rem;
+}
+button, .btn{
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-weight: bolder;
+    font-size: 1rem;
+    background-color: #15ecec;
+    padding: 0.5rem 1rem;
+    margin: 0 1rem;
+}
+section{
+    margin: 3rem;
+}
+p{
+    text-align: center;
+}
